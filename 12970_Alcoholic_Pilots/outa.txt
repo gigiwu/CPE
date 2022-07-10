@@ -1,0 +1,50 @@
+Case #1: You owe me a beer!
+Avg. arrival time: 5/2
+Case #2: No beer for the captain.
+Avg. arrival time: 5/2
+Case #3: You owe me a beer!
+Avg. arrival time: 2
+Case #4: You owe me a beer!
+Avg. arrival time: 3
+Case #5: No beer for the captain.
+Avg. arrival time: 17/15
+Case #6: You owe me a beer!
+Avg. arrival time: 29/21
+Case #7: You owe me a beer!
+Avg. arrival time: 41/48
+Case #8: You owe me a beer!
+Avg. arrival time: 11/12
+Case #9: No beer for the captain.
+Avg. arrival time: 107/60
+Case #10: You owe me a beer!
+Avg. arrival time: 115/108
+Case #11: You owe me a beer!
+Avg. arrival time: 575/728
+Case #12: No beer for the captain.
+Avg. arrival time: 471/400
+Case #13: You owe me a beer!
+Avg. arrival time: 490264677/3665
+Case #14: No beer for the captain.
+Avg. arrival time: 306059997/1040
+Case #15: You owe me a beer!
+Avg. arrival time: 114781159/620
+Case #16: You owe me a beer!
+Avg. arrival time: 90795197/495
+Case #17: No beer for the captain.
+Avg. arrival time: 545518671/1940
+Case #18: No beer for the captain.
+Avg. arrival time: 171845529455/6610685173054
+Case #19: No beer for the captain.
+Avg. arrival time: 64708320531/624390737080
+Case #20: You owe me a beer!
+Avg. arrival time: 58422149461/2072546672
+Case #21: No beer for the captain.
+Avg. arrival time: 90842394200182846/170964669087299511
+Case #22: You owe me a beer!
+Avg. arrival time: 74258916321871753/13542190363224600
+Case #23: No beer for the captain.
+Avg. arrival time: 20766011247775009/2270351440500576
+Case #24: No beer for the captain.
+Avg. arrival time: 1372638381783627893/1704168868662350996
+Case #25: You owe me a beer!
+Avg. arrival time: 30154252194347/24112831972359
